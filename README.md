@@ -1,6 +1,6 @@
 # chiho-cards
 
-> A Vue.js project
+> A Vue.js album demo with fake CRUD
 
 ## Build Setup
 
